@@ -18,3 +18,10 @@ print bign * 5
 print bign * 6
 print bign * 7
 ```
+
+##Types
+Variables can be:
+* Integers
+* Strings
+* Booleans
+* Floats
