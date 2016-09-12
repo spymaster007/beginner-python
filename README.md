@@ -1,21 +1,20 @@
-# beginner-python
-
-## Grocery List
-
-* _Overwatch_
-* Apples
-* Milk
-* Soup
-* Bread
-
-This is `a variable name`.
-
+#Variables
+##Variables are assigned like so:
 ```
-$python run.py
+variablebob = 12*13
 ```
 
-
+##Use:
+Variables are used to store information for later use. For instance,
 ```
-def my_function(a):
-	return a+10
-'''
+print (12*41825478143)*5
+print (12*41825478143)*6
+print (12*41825478143)*7
+```
+Is far more annoying to type than
+```
+bign = (12*41825478143)
+print bign * 5
+print bign * 6
+print bign * 7
+```
