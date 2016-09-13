@@ -42,3 +42,12 @@ else:
 print "No."
 ```
 Would say No. when x did not equal y.
+
+##Functions
+Functions can allow tasks to be put into a permanenet package.
+For instance, you could define a "package" like so:
+```
+def Potato(a)
+return a+10
+```
+Wehn you callde potato, it would add 10 to the parameter A!
